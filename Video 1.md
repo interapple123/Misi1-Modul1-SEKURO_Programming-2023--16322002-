@@ -13,3 +13,5 @@ Git adalah sebuah VCS terdistribusi untuk mengelola perubahan file dalam folder 
 Github adalah sebuah website untuk menyimpan file yang bisa dikelola menggunakan git. Di github kita juga bisa melakukan beberapa perintah git yang dilakukan dengan online.
 
 Dengan kombinasi git dan github, file yang ada di local bisa di upload ke github atau bisa mengambil juga file yang ada di github.
+
+![Nyobain github dan git](nyobain_git.jpg "Nyobain github dan git")
